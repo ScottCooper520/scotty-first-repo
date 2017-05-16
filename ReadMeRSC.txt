@@ -7,4 +7,5 @@ This does not use Node. Mainly for simple client-side testing.
 
 I have also used it for my first git/github experiment.
 
-My github repo is github.com:ScottCooper520/scotty-first-repo.git
+My github repo is https://github.com:ScottCooper520/scotty-first-repo.git
+See notes for how this was accomplished
